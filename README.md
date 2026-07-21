@@ -42,6 +42,6 @@ I'm a Computer Science student at UFG, focused on applying Computer Vision to th
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=cesarolf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=cesarolf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=0D1117&ring=FEDE17&fire=FF7700&currStreakNum=005C99&currStreakLabel=005C99&sideNums=89CFF0&sideLabels=89CFF0" height="200" alt="streak graph" />
   
 </div>
