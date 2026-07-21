@@ -13,30 +13,23 @@
 
 ### 🔭 About me
 
+I'm a Computer Science student at UFG, focused on applying Computer Vision to the agribusiness world, solving real-world problems and building practical solutions.
+
 - 🎓 Studying **Computer Science** at **UFG** (Universidade Federal de Goiás)
 - 🌱 Exploring **Computer vision** universe
 - 🌾 Interested in how technology can transform **farming** (AgTechs)
-- 🤖 Member of the Mlops Study Group at CEIA/UFG 
+- 🤖 Member of the MLOps Study Group at CEIA/UFG 
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div>
+  
+  <img align="center" alt="C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cesarolf&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarolf&layout=compact&hide_border=true)
-
+  
 </div>
 
 ---
@@ -45,4 +38,10 @@
 
 > *"Future's made of virtual insanity"* — Jamiroquai
 
+</div>
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=cesarolf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph" />
+  
 </div>
