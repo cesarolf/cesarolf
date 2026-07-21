@@ -1,12 +1,19 @@
 <div align="center">
 
-# Olá, eu sou o César 👋
+# Olá, sou César Oliveira
 
-### Estudante de Ciência da Computação na UFG | Apaixonado por Visão Computacional & AgTechs
-
+### Estudante de Ciência da Computação na UFG | Visão Computacional & AgTechs
 
 </div>
 
+### 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/césar-oliveira-b6b383391/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.oliveiralf34@gmail.com)
+
+</div>
 ---
 
 ### 🔭 Sobre mim
@@ -36,17 +43,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=cesarolf&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarolf&layout=compact&hide_border=true)
-
-</div>
-
----
-
-### 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/césar-oliveira-b6b383391/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.oliveiralf34@gmail.com)
 
 </div>
 
