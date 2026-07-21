@@ -26,7 +26,7 @@ I'm a Computer Science student at UFG, focused on applying Computer Vision to th
 
 <div>
   
-  <img align="center" alt="C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+  <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   
