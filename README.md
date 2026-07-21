@@ -1,31 +1,26 @@
 <div align="center">
 
-# Olá, sou César Oliveira
+# Hi, I'm César Oliveira
 
-### Estudante de Ciência da Computação na UFG | Visão Computacional & AgTechs
-
-</div>
-
-### 📫 Contato
-
-<div align="center">
+### Computer science student at UFG | Computer vision & AgTechs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/césar-oliveira-b6b383391/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.oliveiralf34@gmail.com)
 
 </div>
----
-
-### 🔭 Sobre mim
-
-- 🎓 Estudando **Ciência da Computação** na **UFG** (Universidade Federal de Goiás)
-- 🌱 Explorando o universo de **Visão Computacional**
-- 🌾 Interessado em como a tecnologia pode transformar o **agronegócio** (AgTechs)
-- 💬 Sempre aberto a trocar ideia sobre projetos, código e novas tecnologias
 
 ---
 
-### 🛠️ Tecnologias
+### 🔭 About me
+
+- 🎓 Studying **Computer Science** at **UFG** (Universidade Federal de Goiás)
+- 🌱 Exploring **Computer vision** universe
+- 🌾 Interested in how technology can transform **farming** (AgTechs)
+- 🤖 Member of the Mlops Study Group at CEIA/UFG 
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -37,7 +32,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub stats
 
 <div align="center">
 
@@ -50,12 +45,6 @@
 
 <div align="center">
 
-💡 *Sempre em busca de novos desafios em visão computacional e agtech.*
-
-</div>
-
-<div align="center">
-
-> *"Future's made of virtual insanity now"* — Jamiroquai
+> *"Future's made of virtual insanity"* — Jamiroquai
 
 </div>
