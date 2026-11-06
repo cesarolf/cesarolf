@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm César Oliveira
+# Olá, sou o  César Oliveira
 
-### Computer science student at UFG | Computer vision & AgTechs
+### Estudante de Ciência da Computação na UFG | Visão Computacional & AgTechs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/césar-oliveira-b6b383391/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.oliveiralf34@gmail.com)
@@ -11,14 +11,14 @@
 
 ---
 
-### 🔭 About me
+### 🔭 Sobre mim
 
-I'm a Computer Science student at UFG, focused on applying Computer Vision to the agribusiness world, solving real-world problems and building practical solutions.
+Sou estudante de Ciência da Computação na UFG, focado em aplicar Visão Computacional ao mundo da agropecuária, resolvendo problemas reais e construindo soluções práticas.
 
-- 🎓 Studying **Computer Science** at **UFG** (Universidade Federal de Goiás)
-- 🌱 Exploring **Computer vision** universe
-- 🌾 Interested in how technology can transform **farming** (AgTechs)
-- 🤖 Member of the MLOps Study Group at CEIA/UFG 
+- 🎓 Estudando Ciência da Computação na UFG (Universidade Federal de Goiás)
+- 🌱 Explorando o universo da Visão Computacional
+- 🌾 Interessado em como a tecnologia pode transformar a agropecuária
+- 🤖 Membro do Grupo de Estudos em MLOps do CEIA/UFG
 
 ---
 
