@@ -30,6 +30,8 @@ Sou estudante de Ciência da Computação na UFG, focado em aplicar Visão Compu
   <img align="center" alt="C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://riteshkumarlidroid.gallerycdn.vsassets.io/extensions/riteshkumarlidroid/python-code-keeper/1.0.3/1736923015252/Microsoft.VisualStudio.Services.Icons.Default">
+  <img align="center" alt="OpenCV" height="20" width="70" src="https://camo.githubusercontent.com/3fec915016daabcbf832b1a6c8410aedbc57915b3394a597ef14817fdeb559e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d3543334545383f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6376266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="Git" height="30" width="50" src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
   
 </div>
 
