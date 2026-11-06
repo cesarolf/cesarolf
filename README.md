@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, sou o  César Oliveira
+# Olá, sou César Oliveira
 
 ### Estudante de Ciência da Computação na UFG | Visão Computacional & AgTechs
 
@@ -34,6 +34,10 @@ Sou estudante de Ciência da Computação na UFG, focado em aplicar Visão Compu
   <img align="center" alt="Git" height="25" width="50" src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
   
 </div>
+
+## 🚀 Projetos em destaque
+
+-
 
 ---
 
